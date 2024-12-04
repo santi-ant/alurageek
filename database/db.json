@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "nombre": "milotic",
+        "precio": "1000",
+        "imagen": "https://i.3djuegos.com/juegos/11397/pok_mon_tcg_online/fotos/maestras/pok_mon_tcg_online-5130731.jpg",
+        "id": 1
+      },
+      {
+        "nombre": "umbreon",
+        "precio": "3000",
+        "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nintenderos.com%2F2022%2F02%2Fjcc-pokemon-esta-es-la-carta-mas-cara-de-las-introducidas-en-2021%2F&psig=AOvVaw0vH5MdPp6wdneaMIjK603C&ust=1733187122803000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDC1Kjvh4oDFQAAAAAdAAAAABAJ",
+        "id": 2
+      },
+      {
+        "nombre": "rayquaza",
+        "precio": "2500",
+        "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ubuy.com.co%2Fsp%2Fproduct%2F11A3ZXS6-pokemon-mega-rayquaza-ex-61-108-xy-roaring-skies-holo&psig=AOvVaw2erWprGVuLNVmv0zxRhE6R&ust=1733187207277000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCQwNDvh4oDFQAAAAAdAAAAABAJ",
+        "id": 3
+      },
+      {
+        "nombre": "palkia",
+        "precio": "1000",
+        "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mercadolibre.com.co%2Fpokemon-tcg-origin-forme-palkia-vstar-league-battle-deck%2Fp%2FMCO27192653&psig=AOvVaw17jgMIWse7JH8M6yte9HZk&ust=1733187266919000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICp4-3vh4oDFQAAAAAdAAAAABAE",
+        "id": 5
+      },
+      {
+        "nombre": "dialga",
+        "precio": "1000",
+        "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mercadolibre.com.co%2Fpokemon-tcg-origin-forme-palkia-vstar-league-battle-deck%2Fp%2FMCO27192653&psig=AOvVaw17jgMIWse7JH8M6yte9HZk&ust=1733187266919000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICp4-3vh4oDFQAAAAAdAAAAABAE",
+        "id": 6
+      },
+      {
+        "nombre": "arceus",
+        "precio": "1000",
+        "imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ubuy.com.co%2Fsp%2Fproduct%2F7MSI3PUTA-pokemon-tcg-arceus-vstar-premium-collection&psig=AOvVaw1ClKi4gSj2MqF-0grzSmVD&ust=1733187332167000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDMqYzwh4oDFQAAAAAdAAAAABAE",
+        "id": 7
+      }
+    ]
+  }
